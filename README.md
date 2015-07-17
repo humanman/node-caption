@@ -1,4 +1,4 @@
-node-caption
+node-caption- with modified text styles
 ============
 
 Node utility for captioning images via imageMagick
