@@ -1,6 +1,9 @@
-node-caption- with modified text styles
+node-caption- with modified font in generate.js
 ============
 
+I added a -font arg in the genereate.js of this library, and created this fork for that purpose.  (I wish there was a greater variety of fonts to use. I thought it was restricted to those listed in Ghostscript ~9.1, but even most of those would not be recognized. Thanks to Jesse Ditson for doing the heavy lifting on this one. 
+
+=======================
 Node utility for captioning images via imageMagick
 
 To use node-caption, the system it's running on must have imageMagick installed. Here are some ways to do that:
